@@ -177,9 +177,8 @@ span {
   .kira .paragraph {
     width: unset;
   }
-  .janeate .text h2,
-  .text h2 {
-    width: 261px;
+  .janeate .text h2 {
+    width: unset;
   }
   .double-qoute {
     right: 16px;
